@@ -8,4 +8,6 @@ tableDivs.forEach(div => {
         }
     });
 });
+
 //test text (should be in test brench)
+
