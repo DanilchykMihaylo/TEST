@@ -87,4 +87,4 @@ const transposed = Array.from({ length: M }, (_, col) =>
 
 console.log("8. Транспонована матриця:");
 transposed.forEach(row => console.log(row.join("\t")));
-//new text
+//new text and new again
